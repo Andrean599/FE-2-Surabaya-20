@@ -151,3 +151,40 @@ li a:hover {
   background-color: orange;
   transition: 0.3s;
 }
+
+/* Main content */
+.about {
+  background: transparent;
+  margin-top: 30px;
+  text-align: center;
+  padding: 40px;
+}
+
+.aboutAs {
+  display: flex;
+  justify-content: space-around;
+}
+
+.gambar img {
+  width: 364px;
+}
+
+.text {
+  margin-left: 30px;
+}
+
+.text h3 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.text p {
+  font-size: 0.9rem;
+  text-align: justify;
+  padding: 10px;
+}
+
+.text .text-tebal {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
